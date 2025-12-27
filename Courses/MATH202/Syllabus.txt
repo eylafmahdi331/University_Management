@@ -1,1 +1,1 @@
-Course syllabus
+syllabus file using absolute path
